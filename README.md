@@ -3,7 +3,7 @@ implementing ml papers
 
 Papers to implement (stolen from reddit):
 # Architectures
-AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+AlexNet (Printed): https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
 ZFNet: https://arxiv.org/abs/1311.2901
 
