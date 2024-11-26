@@ -5,11 +5,11 @@ Papers to implement (stolen from reddit):
 # Architectures
 AlexNet (Printed): https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
-ZFNet: https://arxiv.org/abs/1311.2901
+ZFNet (Printed): https://arxiv.org/abs/1311.2901
 
-VGG16: https://arxiv.org/abs/1505.06798
+VGG16 (Printed): https://arxiv.org/abs/1505.06798
 
-ResNet: https://arxiv.org/abs/1704.06904
+ResNet (Printed): https://arxiv.org/abs/1704.06904
 
 GoogLeNet: https://arxiv.org/abs/1409.4842
 
