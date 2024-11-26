@@ -11,9 +11,9 @@ VGG16 (Printed): https://arxiv.org/abs/1505.06798
 
 ResNet (Printed): https://arxiv.org/abs/1704.06904
 
-GoogLeNet: https://arxiv.org/abs/1409.4842
+GoogLeNet (Printed): https://arxiv.org/abs/1409.4842
 
-Inception: https://arxiv.org/abs/1512.00567
+Inception (Printed): https://arxiv.org/abs/1512.00567
 
 Xception: https://arxiv.org/abs/1610.02357
 
