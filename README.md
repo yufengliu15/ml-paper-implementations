@@ -2,8 +2,8 @@
 implementing ml papers
 
 Papers to implement (stolen from reddit):
-# Architectures
-AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+# Architectures (8 Papers)
+AlexNet (Printed): https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
 ZFNet: https://arxiv.org/abs/1311.2901
 
@@ -19,7 +19,7 @@ Xception: https://arxiv.org/abs/1610.02357
 
 MobileNet: https://arxiv.org/abs/1704.04861
 
-# Semantic Segmentation
+# Semantic Segmentation (7 Papers)
 FCN: https://arxiv.org/abs/1411.4038
 
 SegNet: https://arxiv.org/abs/1511.00561
@@ -34,7 +34,7 @@ ICNet: https://arxiv.org/abs/1704.08545
 
 ENet: https://arxiv.org/abs/1606.02147
 
-# Generative adversarial networks
+# Generative adversarial networks (5 Papers)
 GAN: https://arxiv.org/abs/1406.2661
 
 DCGAN: https://arxiv.org/abs/1511.06434
@@ -45,7 +45,7 @@ Pix2Pix: https://arxiv.org/abs/1611.07004
 
 CycleGAN: https://arxiv.org/abs/1703.10593
 
-# Object detection
+# Object detection (6 Papers)
 RCNN: https://arxiv.org/abs/1311.2524
 
 Fast-RCNN: https://arxiv.org/abs/1504.08083
