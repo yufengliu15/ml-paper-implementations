@@ -131,19 +131,6 @@ class AlexNet(nn.Module):
 
         return x
 
-# Create the model
-model = AlexNet(num_classes=1000)
-model = model.to('cuda')
-
-optimizer = torch.optim.SGD(
-    model.parameters(),
-    lr=0.01,
-    momentum=0.9,
-    weight_decay=0.0005
-)
-
-criterion = nn.CrossEntropyLoss()
-
 def testingModel():
     for batch in train_loader:
         images, labels = batch["pixel_values"], batch["label"]
@@ -236,6 +223,19 @@ def load_checkpoint(filename, model, optimizer):
     loss = checkpoint['loss']
     print(f"Loaded checkpoint from epoch {epoch} with accuracy {acc:.2f}")
     return epoch, acc, loss
+
+# Create the model
+model = AlexNet(num_classes=1000)
+model = model.to('cuda')
+
+optimizer = torch.optim.SGD(
+    model.parameters(),
+    lr=0.01,
+    momentum=0.9,
+    weight_decay=0.0005
+)
+
+criterion = nn.CrossEntropyLoss()
 
 # Training loop
 num_epochs = 2 # paper uses 90

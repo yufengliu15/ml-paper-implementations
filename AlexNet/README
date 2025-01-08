@@ -1,4 +1,0 @@
-# AlexNet Implementation
-## Notes
-- Model weights cannot be saved on repo (boo microsoft). Gonna have to upload them to Google Drive or something (Spent 5 hours trying to untrack the weights from git)
-- Researchers used 90 epochs to train the model...
