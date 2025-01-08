@@ -1,5 +1,7 @@
 # ml-paper-implementations
-implementing ml papers
+implementing ml papers.
+
+For updating requirements.txt, run `pipreqs ml-paper-implementations` from outside of directory.
 
 Papers to implement (stolen from reddit):
 # Architectures (8 Papers)
