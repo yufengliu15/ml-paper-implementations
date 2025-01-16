@@ -3,8 +3,9 @@ implementing ml papers.
 
 For updating requirements.txt, run `pipreqs ml-paper-implementations` from outside of directory.
 
-Papers to implement (stolen from reddit):
-# Architectures (8 Papers)
+Open the respective paper's directory to view more information.
+# Papers to implement:
+## Architectures (8 Papers)
 AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
 ZFNet: https://arxiv.org/abs/1311.2901
@@ -21,7 +22,7 @@ Xception: https://arxiv.org/abs/1610.02357
 
 MobileNet: https://arxiv.org/abs/1704.04861
 
-# Semantic Segmentation (7 Papers)
+## Semantic Segmentation (7 Papers)
 FCN: https://arxiv.org/abs/1411.4038
 
 SegNet: https://arxiv.org/abs/1511.00561
@@ -36,7 +37,7 @@ ICNet: https://arxiv.org/abs/1704.08545
 
 ENet: https://arxiv.org/abs/1606.02147
 
-# Generative adversarial networks (5 Papers)
+## Generative adversarial networks (5 Papers)
 GAN: https://arxiv.org/abs/1406.2661
 
 DCGAN: https://arxiv.org/abs/1511.06434
@@ -47,7 +48,7 @@ Pix2Pix: https://arxiv.org/abs/1611.07004
 
 CycleGAN: https://arxiv.org/abs/1703.10593
 
-# Object detection (6 Papers)
+## Object detection (6 Papers)
 RCNN: https://arxiv.org/abs/1311.2524
 
 Fast-RCNN: https://arxiv.org/abs/1504.08083
