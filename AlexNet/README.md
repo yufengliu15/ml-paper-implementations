@@ -1,5 +1,7 @@
 # AlexNet Implementation
 ## Learnings
+### Implementation
+Had to use HuggingFace's API to get access to imagenet-1k. The original website was broken. 
 ### Paper Review
 Basically, this paper showed that deep learning could be applied to image classification tasks. Prior to this paper, researchers had to manually use hand-crafted features, like Scale-Invariant Feature Transform and Histogram of Oriented Gradients. 
 
